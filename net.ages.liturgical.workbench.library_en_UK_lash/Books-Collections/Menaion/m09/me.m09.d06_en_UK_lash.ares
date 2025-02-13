@@ -240,8 +240,8 @@ meMA.Ode3Kathisma1.text = "Having by the Creator’s command become the leader o
 
 meMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.melody
-meMA.Ode3KathismaT.incipit = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.incipit
-meMA.Ode3KathismaT.text = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.text
+meMA.Ode3KathismaT.incipit = "…"
+meMA.Ode3KathismaT.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode4
