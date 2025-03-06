@@ -3,8 +3,14 @@ A_Resource_Whose_Name = eu.lichrysbasil_en_UK_lash
 euLI.notice = ""
 euLI.copyright = ""
 euLI.title = "The Divine Liturgy of Saint John Chrysostom"
+euLI.Key01.title = ""
+euLI.Key02.title = ""
+euLI.Key03.title = ""
 euLI.basil.copyright = ""
 euLI.basil.title = ""
+euLI.Key01.basil.title = ""
+euLI.Key02.basil.title = ""
+euLI.Key03.basil.title = ""
 
 // Part 01 Enarxis
 euLI.Key0100.title = ""
