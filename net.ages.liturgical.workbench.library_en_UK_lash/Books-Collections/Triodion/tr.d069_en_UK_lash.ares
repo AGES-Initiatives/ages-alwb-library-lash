@@ -349,8 +349,8 @@ trMA.Antiphon15T.incipit = "…"
 trMA.Antiphon15T.text = ""
 
 trMA.Antiphon15Kathisma.mode = miscellanea_en_UK_lash.misc.Mode4
-trMA.Antiphon15Kathisma.incipit = "…"
-trMA.Antiphon15Kathisma.text = ""
+trMA.Antiphon15Kathisma.incipit = oc.m4.d4_en_UK_lash.ocMA.Kathisma11.incipit
+trMA.Antiphon15Kathisma.text = oc.m4.d4_en_UK_lash.ocMA.Kathisma11.text
 
 trMA.Beatitudes01.mode = miscellanea_en_UK_lash.misc.Mode4
 trMA.Beatitudes01.melody = he.a.m4_en_UK_lash.heAU.DiaXylouOAdam.melody
