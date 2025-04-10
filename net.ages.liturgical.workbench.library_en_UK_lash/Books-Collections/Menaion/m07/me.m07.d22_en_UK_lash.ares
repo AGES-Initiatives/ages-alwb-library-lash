@@ -78,10 +78,9 @@ meVE.AposGlory.incipit = "Mary Magdalen, having as his…"
 meVE.AposGlory.text = "Mary Magdalen, having as his disciple faithfully served Christ our God, who willingly made himself poor with my poverty in his surpassing compassion, when she saw him stretched on a Cross and shut up in a tomb, weeping cried out, 'What is this strange sight? How is he who gives life to the dead numbered among the dead? What sweet spices can I bring the one who freed me from the foul stench of the demons? What tears can I shed for the one who stripped my foremother of her tears?' But the Sovereign of the universe, appearing like the guardian of Paradise, by the dew of his words banished the heat and said to her, 'Go to my brethren and shout aloud the good tidings of joy: I am ascending to my Father and your Father, and my God and your God, that I may grant the world my great mercy.'"
 
 meVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode8
-meVE.AposTheotokion.greekmelody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.greekname
-meVE.AposTheotokion.melody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.name
-meVE.AposTheotokion.incipit = oc.m8.d2_en_UK_lash.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m8.d2_en_UK_lash.ocVE.AposTheotokion.text
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.incipit = oc.m8.d2_en_UK_lash.ocMA.AposTheotokion.incipit
+meVE.AposTheotokion.text = oc.m8.d2_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.greekname
