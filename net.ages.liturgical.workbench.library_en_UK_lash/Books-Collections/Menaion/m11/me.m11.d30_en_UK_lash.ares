@@ -805,7 +805,7 @@ meMA.Ode8C21.text = "Andrew, Apostle of Christ, your godly memorial, bearing lig
 meMA.Ode8C22.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C22.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Ode8C22.melody = he.h.m1_en_UK_lash.heHE.EnKaminoPaides.name
-meMA.Ode8C22.incipit = "" //missing
+meMA.Ode8C22.incipit = "…" //missing
 meMA.Ode8C22.text = "" //missing
 
 meMA.Ode8C23.ode = miscellanea_en_UK_lash.misc.Ode8

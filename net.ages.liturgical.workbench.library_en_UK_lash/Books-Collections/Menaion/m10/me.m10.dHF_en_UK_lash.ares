@@ -143,7 +143,7 @@ meMA.Ode3C1T.text = "Every impious man, who does not honour the holy image of th
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
-meMA.Ode3Kathisma1.incipit = ""
+meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode4

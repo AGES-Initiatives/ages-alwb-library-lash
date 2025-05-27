@@ -61,7 +61,7 @@ meVE.SticGlory.text = "Come, let us feast the universal Dormition of the all-bla
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
 meVE.Aposticha1.greekmelody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.notmetered
-meVE.Aposticha1.incipit = ""
+meVE.Aposticha1.incipit = "…"
 meVE.Aposticha1.text = ""
 
 meVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode2
