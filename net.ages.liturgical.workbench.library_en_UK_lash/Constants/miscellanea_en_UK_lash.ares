@@ -13,6 +13,7 @@ misc.Idiomelon = "Idiomel"
 misc.Prosomoion = ""
 
 misc.blank = ""
+misc.bookmark = "bookmark"
 misc.bracket.open = "["
 misc.bracket.close = "]"
 misc.greekquotation.left = "«"
