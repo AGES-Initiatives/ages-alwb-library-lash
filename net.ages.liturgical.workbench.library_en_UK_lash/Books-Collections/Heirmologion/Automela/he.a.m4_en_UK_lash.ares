@@ -15,7 +15,7 @@ heAU.EdokasSimeiosin.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.EdokasSimeiosin.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.EdokasSimeiosin.notmetered = "N/M (You have given.)"
 heAU.EdokasSimeiosin.name = "You have given as a sign."
-heAU.EdokasSimeiosin.incipit = "You have given as a sign…"
+heAU.EdokasSimeiosin.incipit = "…"
 heAU.EdokasSimeiosin.text = "You have given as a sign to us who fear you, Lord, your precious Cross, through which you triumphed over the principalities and powers of darkness and brought us back to our ancient blessedness. Therefore we glorify your loving dispensation, Jesus all-powerful, the Saviour of our souls."
 
 heAU.EpefanisSimeron.greekname = ""
@@ -23,7 +23,7 @@ heAU.EpefanisSimeron.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.EpefanisSimeron.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.EpefanisSimeron.notmetered = "N/M (You revealed yourself today.)"
 heAU.EpefanisSimeron.name = "You have appeared today."
-heAU.EpefanisSimeron.incipit = "You have appeared today…"
+heAU.EpefanisSimeron.incipit = "…"
 heAU.EpefanisSimeron.text = ""
 
 heAU.IthelonDakrysinExaleipsai.greekname = ""
@@ -31,7 +31,7 @@ heAU.IthelonDakrysinExaleipsai.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.IthelonDakrysinExaleipsai.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
 heAU.IthelonDakrysinExaleipsai.name = "I wanted to wipe out the record of my offences."
-heAU.IthelonDakrysinExaleipsai.incipit = "I wanted to wipe out the record of my offences…"
+heAU.IthelonDakrysinExaleipsai.incipit = "…"
 heAU.IthelonDakrysinExaleipsai.text = "I wanted to wipe out the record of my offences, Lord, with tears and to be well-pleasing to you for the rest of my life through repentance; but the enemy tricks me and wars on my soul. O Lord, before I am finally destroyed, save me."
 
 heAU.KateplagiIosif.greekname = ""
@@ -39,7 +39,7 @@ heAU.KateplagiIosif.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.KateplagiIosif.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
 heAU.KateplagiIosif.name = "Joseph was amazed."
-heAU.KateplagiIosif.incipit = "Joseph was amazed…"
+heAU.KateplagiIosif.incipit = "…"
 heAU.KateplagiIosif.text = "Joseph was amazed as he contemplated what was beyond nature, and at your conceiving without seed, Mother of God, he called to mind the shower on the fleece, the bush unburned by fire, Aaron’s rod that blossomed. And your betrothed and guardian bore witness and cried to the priests: A Virgin bears a child and after childbirth remains still a Virgin." //At your conceiving without seed, O Mother of God, Joseph was struck with wonder as he contemplated what was beyond nature, and he brought to mind the dew on the fleece, the bush unburned by fire, Aaron’s rod which blossomed; and your Betrothed and guardian bore witness and cried to the priests: A Virgin bears a child, and after child-birth remains still a virgin.
 
 heAU.KyrieAnelthonEnToStavro.greekname = ""
@@ -55,7 +55,7 @@ heAU.OExYpsistouKlitheis.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OExYpsistouKlitheis.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
 heAU.OExYpsistouKlitheis.name = "Called from the highest."
-heAU.OExYpsistouKlitheis.incipit = "Called from the highest…"
+heAU.OExYpsistouKlitheis.incipit = "…"
 heAU.OExYpsistouKlitheis.text = ""
 
 heAU.OYpsotheisEnToStavro.greekname = ""
@@ -63,7 +63,7 @@ heAU.OYpsotheisEnToStavro.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OYpsotheisEnToStavro.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
 heAU.OYpsotheisEnToStavro.name = "Lifted up on the Cross."
-heAU.OYpsotheisEnToStavro.incipit = "Lifted up on the Cross…"
+heAU.OYpsotheisEnToStavro.incipit = "…"
 heAU.OYpsotheisEnToStavro.text = "Lifted up on the Cross of your own will, grant your mercies, O Christ God, to the new commonwealth that bears your name. Make your faithful people glad by your power, giving them victory over their enemies. May they have your help in battle: a weapon of peace, an invincible trophy."
 
 heAU.OsGennaionEnMartysi.greekname = ""
@@ -71,7 +71,7 @@ heAU.OsGennaionEnMartysi.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OsGennaionEnMartysi.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
 heAU.OsGennaionEnMartysi.name = "As noblest of Martyrs."
-heAU.OsGennaionEnMartysi.incipit = "As noblest of Martyrs…"
+heAU.OsGennaionEnMartysi.incipit = "…"
 heAU.OsGennaionEnMartysi.text = ""
 
 heAU.TachyProkatalave.greekname = ""
@@ -79,5 +79,5 @@ heAU.TachyProkatalave.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TachyProkatalave.mode = miscellanea_en_UK_lash.misc.Mode4
 heAU.TachyProkatalave.notmetered = "N/M (Come quickly.)"
 heAU.TachyProkatalave.name = "Come quickly to help."
-heAU.TachyProkatalave.incipit = "Come quickly to help…"
+heAU.TachyProkatalave.incipit = "…"
 heAU.TachyProkatalave.text = "Come quickly to help us, Christ our God, before we are enslaved by foes who blaspheme you and who threaten us; by your Cross destroy those who make war on us; let them know how strong is the faith of the Orthodox, at the prayers of the Mother of God, O only lover of mankind." //Come speedily to help, before we are enslaved to foes who blaspheme you and threaten us, Christ our God; by your Cross do away with those who war against us; let them know how strong is the faith of the Orthodox; at the prayers of the Mother of God, O only lover of mankind.

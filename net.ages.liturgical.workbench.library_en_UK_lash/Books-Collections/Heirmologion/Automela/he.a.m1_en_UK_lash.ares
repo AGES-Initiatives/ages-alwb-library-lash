@@ -7,7 +7,7 @@ heAU.ChorosAngelikos.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.ChorosAngelikos.mode = miscellanea_en_UK_lash.misc.Mode1
 heAU.ChorosAngelikos.notmetered = "N/M (In heaven.)"
 heAU.ChorosAngelikos.name = "Let the angelic choir."
-heAU.ChorosAngelikos.incipit = "Let the angelic choir…"
+heAU.ChorosAngelikos.incipit = "…"
 heAU.ChorosAngelikos.text = "Let the angelic choir be amazed at the wonder, and let us mortals with our voices shout aloud a hymn of praise, as we see the ineffable condescension of God; for the One at whom the powers of heaven tremble aged hands now cradle, the only Lover of mankind."
 
 heAU.NefelinSeFotos.greekname = ""
@@ -39,7 +39,7 @@ heAU.PaneffimoiMartyres.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.PaneffimoiMartyres.mode = miscellanea_en_UK_lash.misc.Mode1
 heAU.PaneffimoiMartyres.notmetered = "N/M (O Martyrs, extolled.)"
 heAU.PaneffimoiMartyres.name = "All-praised Martyrs."
-heAU.PaneffimoiMartyres.incipit = "All-praised Martyrs…"
+heAU.PaneffimoiMartyres.incipit = "…"
 heAU.PaneffimoiMartyres.text = "All-praised Martyrs, earth did not hide you, but heaven received you; For you the gates of Paradise stood open, and now within you enjoy the Tree of life. Intercede with Christ that there be granted to our souls his peace and his great mercy."
 
 heAU.TisErimouPolitis.greekname = ""
@@ -55,7 +55,7 @@ heAU.TonOuranionTagmaton.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TonOuranionTagmaton.mode = miscellanea_en_UK_lash.misc.Mode1
 heAU.TonOuranionTagmaton.notmetered = "N/M (For all the powers.)"
 heAU.TonOuranionTagmaton.name = "Joy of the heavenly hosts."
-heAU.TonOuranionTagmaton.incipit = "Joy of the heavenly hosts…"
+heAU.TonOuranionTagmaton.incipit = "…"
 heAU.TonOuranionTagmaton.text = "Joy of the heavenly hosts, mighty defence of humans upon earth, immaculate Virgin, save us who have recourse to you, for, after God, we have placed all our hope in you."
 
 heAU.TonTafonSouSotir.greekname = ""
@@ -63,7 +63,7 @@ heAU.TonTafonSouSotir.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TonTafonSouSotir.mode = miscellanea_en_UK_lash.misc.Mode1
 heAU.TonTafonSouSotir.notmetered = "N/M (The soldiers.)"
 heAU.TonTafonSouSotir.name = "The soldiers watching."
-heAU.TonTafonSouSotir.incipit = "The soldiers watching…"
+heAU.TonTafonSouSotir.incipit = "…"
 heAU.TonTafonSouSotir.text = "The soldiers watching your grave became as dead men at the lightning flash of the Angel who appeared and proclaimed to the Women the Resurrection. We glorify you, the destroyer of corruption; we fall down before you, risen from the grave and alone our God."
 
 heAU.TouLithouSfragisthentos.greekname = ""
@@ -71,5 +71,5 @@ heAU.TouLithouSfragisthentos.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TouLithouSfragisthentos.mode = miscellanea_en_UK_lash.misc.Mode1
 heAU.TouLithouSfragisthentos.notmetered = "N/M (The stone.)"
 heAU.TouLithouSfragisthentos.name = "When the stone had been sealed."
-heAU.TouLithouSfragisthentos.incipit = "When the stone had been sealed…"
+heAU.TouLithouSfragisthentos.incipit = "…"
 heAU.TouLithouSfragisthentos.text = "When the stone had been sealed by the Jews, and while soldiers were guarding your spotless Body, you rose, O Saviour, on the third day, giving life to the world; and therefore the heavenly Powers cried out to you, Giver of life: Glory to your Resurrection, O Christ, glory to your Kingdom, glory to your Dispensation, only lover of mankind."

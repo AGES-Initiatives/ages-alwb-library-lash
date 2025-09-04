@@ -7,7 +7,7 @@ heAU.EfsplagchniasYparchousa.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.EfsplagchniasYparchousa.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.EfsplagchniasYparchousa.notmetered = "N/M (Since you are the source.)"
 heAU.EfsplagchniasYparchousa.name = "As you are source of compassion."
-heAU.EfsplagchniasYparchousa.incipit = "As you are source of compassion…"
+heAU.EfsplagchniasYparchousa.incipit = "…"
 heAU.EfsplagchniasYparchousa.text = "As you are source of compassion, grant us pity, Mother of God. Look on a people who have sinned, and show your power as always; for hoping in you we cry: Hail, as once Gabriel did, the chief Captain of the Bodiless Powers."
 
 heAU.GynaikesAkoutisthite.greekname = ""
@@ -15,7 +15,7 @@ heAU.GynaikesAkoutisthite.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.GynaikesAkoutisthite.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.GynaikesAkoutisthite.notmetered = "N/M (O Women, hearken.)"
 heAU.GynaikesAkoutisthite.name = "Women, hear."
-heAU.GynaikesAkoutisthite.incipit = "Women, hear…"
+heAU.GynaikesAkoutisthite.incipit = "…"
 heAU.GynaikesAkoutisthite.text = ""
 
 heAU.OikosTouEfratha.greekname = ""
@@ -23,7 +23,7 @@ heAU.OikosTouEfratha.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OikosTouEfratha.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.OikosTouEfratha.notmetered = "N/M (O House of Ephratha.)"
 heAU.OikosTouEfratha.name = "O house of Ephratha."
-heAU.OikosTouEfratha.incipit = "O house of Ephratha…"
+heAU.OikosTouEfratha.incipit = "…"
 heAU.OikosTouEfratha.text = "O house of Ephratha, the holy City, the glory of the Prophets, make ready the house in which the Divine comes to birth."
 
 heAU.OteEkTouXylou.greekname = ""
@@ -31,7 +31,7 @@ heAU.OteEkTouXylou.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OteEkTouXylou.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.OteEkTouXylou.notmetered = "N/M (Joseph took You.)"
 heAU.OteEkTouXylou.name = "When from the Tree."
-heAU.OteEkTouXylou.incipit = "When from the Tree…"
+heAU.OteEkTouXylou.incipit = "…"
 heAU.OteEkTouXylou.text = ""
 
 heAU.PoioisEffimionStemmasin.greekname = ""
@@ -39,7 +39,7 @@ heAU.PoioisEffimionStemmasin.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.PoioisEffimionStemmasin.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.PoioisEffimionStemmasin.notmetered = "N/M (How shall we honor.)"
 heAU.PoioisEffimionStemmasin.name = "How shall we honor."
-heAU.PoioisEffimionStemmasin.incipit = "How shall we honor…"
+heAU.PoioisEffimionStemmasin.incipit = "…"
 heAU.PoioisEffimionStemmasin.text = ""
 
 heAU.SarkiYpnosas.greekname = ""
@@ -63,7 +63,7 @@ heAU.TaAnoZiton.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TaAnoZiton.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.TaAnoZiton.notmetered = "N/M (In seeking the heights.)"
 heAU.TaAnoZiton.name = "N/M (In seeking the heights.)"
-heAU.TaAnoZiton.incipit = "Seeking the things above…" //Seeking the things on high.
+heAU.TaAnoZiton.incipit = "…" //Seeking the things on high.
 heAU.TaAnoZiton.text = "Seeking things above and joined to things below, you made your column a chariot of fire, through which you have become a companion of the Angels, with them unceasingly imploring Christ God on behalf of us all."
 
 heAU.ToisMathitaisSynelthomen.greekname = ""
@@ -79,7 +79,7 @@ heAU.ToisTonAimatonSou.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.ToisTonAimatonSou.mode = miscellanea_en_UK_lash.misc.Mode2
 heAU.ToisTonAimatonSou.notmetered = "N/M (In the pools of your blood.)"
 heAU.ToisTonAimatonSou.name = "With the streams of your blood."
-heAU.ToisTonAimatonSou.incipit = "With the streams of your blood…"
+heAU.ToisTonAimatonSou.incipit = "…"
 heAU.ToisTonAimatonSou.text = "With the streams of your blood, Demetrios, God has dyed the Church in purple, the God who gives you unconquerable might and keeps your City unharmed, for you are its strength."
 
 heAU.TonMathitonOrontonSe.greekname = ""

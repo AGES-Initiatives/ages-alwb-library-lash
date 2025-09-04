@@ -5,9 +5,9 @@ heAU.title = ""
 heAU.AiAngelikai.greekname = ""
 heAU.AiAngelikai.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.AiAngelikai.mode = miscellanea_en_UK_lash.misc.Mode6
-heAU.AiAngelikai.notmetered = "N/M (Hosts of herald Angels.)"
+heAU.AiAngelikai.notmetered = "N/M (Host of herald Angels.)"
 heAU.AiAngelikai.name = "Go on, Angelic Powers."
-heAU.AiAngelikai.incipit = "Go on, Angelic Powers…"
+heAU.AiAngelikai.incipit = "…"
 heAU.AiAngelikai.text = "Angelic Powers, advance; people of Bethlehem, prepare the Manger; for the Word is born; Wisdom goes forth; Church, receive greeting; peoples let us say for the joy of the Mother of God: Blessed is he who has come; our God, glory to you."
 
 heAU.AngelikaiDynameis.greekname = ""
@@ -55,7 +55,7 @@ heAU.OlinApothemenoi.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OlinApothemenoi.mode = miscellanea_en_UK_lash.misc.Mode6
 heAU.OlinApothemenoi.notmetered = "N/M (When the saints.)"
 heAU.OlinApothemenoi.name = "Placing all their hope."
-heAU.OlinApothemenoi.incipit = "Placing all their hope…"
+heAU.OlinApothemenoi.incipit = "…"
 heAU.OlinApothemenoi.text = "Placing all their hope in heaven, the Saints treasured up for themselves an inviolable treasure; freely they received, freely they give remedies to the sick; in accordance with the Gospel they possessed neither gold nor silver; their kind deeds they shared out to humans and beasts alike; that being in all things obedient to Christ they might intercede with confidence on behalf of our souls."
 
 heAU.TinEnPresveiais.greekname = ""
@@ -63,7 +63,7 @@ heAU.TinEnPresveiais.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TinEnPresveiais.mode = miscellanea_en_UK_lash.misc.Mode6
 heAU.TinEnPresveiais.notmetered = "N/M (The Theotokos, unsleeping.)"
 heAU.TinEnPresveiais.name = "Nor tomb nor death."
-heAU.TinEnPresveiais.incipit = "Nor tomb nor death…"
+heAU.TinEnPresveiais.incipit = "…"
 heAU.TinEnPresveiais.text = "Nor tomb nor death overpowered the Mother of God, unsleeping in her prayers, unfailing hope in intercession; for as Mother of Life she has been taken over to life by him who dwelt in her ever-virgin womb."
 
 heAU.TinYperImon.greekname = ""
@@ -71,7 +71,7 @@ heAU.TinYperImon.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TinYperImon.mode = miscellanea_en_UK_lash.misc.Mode6
 heAU.TinYperImon.notmetered = "N/M (When You had fulfilled.)"
 heAU.TinYperImon.name = "When you had fulfilled."
-heAU.TinYperImon.incipit = "When you had fulfilled…"
+heAU.TinYperImon.incipit = "…"
 heAU.TinYperImon.text = "When you had fulfilled the dispensation for our sake and united things on earth with things in heaven, you were taken up in glory, Christ our God, in no way divided, but remaining inseparable, you cried to those who loved you, ‘I am with you, and there is no one against you.’"
 
 heAU.TriimerosAnestis.greekname = ""
@@ -79,5 +79,5 @@ heAU.TriimerosAnestis.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TriimerosAnestis.mode = miscellanea_en_UK_lash.misc.Mode6
 heAU.TriimerosAnestis.notmetered = "N/M (O Christ, as it is written.)"
 heAU.TriimerosAnestis.name = "You rose on the third day."
-heAU.TriimerosAnestis.incipit = "You rose on the third day…"
+heAU.TriimerosAnestis.incipit = "…"
 heAU.TriimerosAnestis.text = "On the third day you rose from the tomb, O Christ, as it is written, and you raised our Forefather with you; therefore the human race both glorifies you and hymns your Resurrection."

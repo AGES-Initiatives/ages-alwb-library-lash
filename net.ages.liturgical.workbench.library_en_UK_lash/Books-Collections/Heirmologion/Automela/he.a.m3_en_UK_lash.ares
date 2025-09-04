@@ -7,7 +7,7 @@ heAU.ApostoloiEkPeraton.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.ApostoloiEkPeraton.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
 heAU.ApostoloiEkPeraton.name = "Apostles, you assembled here."
-heAU.ApostoloiEkPeraton.incipit = "Apostles, you assembled here…"
+heAU.ApostoloiEkPeraton.incipit = "…"
 heAU.ApostoloiEkPeraton.text = "Apostles, you assembled here * brought here from the earth’s furthest limits, * here in the bounds of Gethsemane * I bid you inter my body. * And you, my Son and my God, * my dear Son, receive my spirit."
 
 heAU.EnPnevmatiToIero.greekname = ""
@@ -15,7 +15,7 @@ heAU.EnPnevmatiToIero.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.EnPnevmatiToIero.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.EnPnevmatiToIero.notmetered = "N/M (The Elder.)"
 heAU.EnPnevmatiToIero.name = "Coming to the Temple."
-heAU.EnPnevmatiToIero.incipit = "Coming to the Temple…"
+heAU.EnPnevmatiToIero.incipit = "…"
 heAU.EnPnevmatiToIero.text = "Coming to the Temple by the Spirit, the Elder received in his arms the Master of the Law and cried, 'Now release me from the bond of the flesh in peace, as you said. For I have seen with my eyes the revelation of the Nations and the salvation of Israel'."
 
 heAU.EpefaniOSotir.greekname = ""
@@ -47,7 +47,7 @@ heAU.IParthenosSimeron.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.IParthenosSimeron.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.IParthenosSimeron.notmetered = "N/M (On this day.)"
 heAU.IParthenosSimeron.name = "Today the Virgin."
-heAU.IParthenosSimeron.incipit = "Today the Virgin…"
+heAU.IParthenosSimeron.incipit = "…"
 heAU.IParthenosSimeron.text = "Today the Virgin gives birth to him who is above all being, and the earth offers the cave to him whom no one can approach; Angels with Shepherds give glory, while Magi journey with a star, for to us there has been born a little Child, God before the ages."
 
 heAU.MegaliTonMartyronSou.greekname = ""
@@ -63,7 +63,7 @@ heAU.MegaliTouStavrouSou.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.MegaliTouStavrouSou.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.MegaliTouStavrouSou.notmetered = "N/M (The power of Your holy Cross.)"
 heAU.MegaliTouStavrouSou.name = "Great is the power of your Cross."
-heAU.MegaliTouStavrouSou.incipit = "Great is the power of your Cross…"
+heAU.MegaliTouStavrouSou.incipit = "…"
 heAU.MegaliTouStavrouSou.text = "Great is the power of your Cross, O Lord; for it was fixed in a place and is active in the world; it made Apostles of fishermen and Martyrs from nations, that they might intercede on behalf of our souls."
 
 heAU.OOuranonToisAstrois.greekname = ""
@@ -71,7 +71,7 @@ heAU.OOuranonToisAstrois.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.OOuranonToisAstrois.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.OOuranonToisAstrois.notmetered = "N/M (Having embellished.)"
 heAU.OOuranonToisAstrois.name = "As God you adorned."
-heAU.OOuranonToisAstrois.incipit = "As God you adorned…"
+heAU.OOuranonToisAstrois.incipit = "…"
 heAU.OOuranonToisAstrois.text = "As God you adorned the heavens with stars, and through your Angels You lead the whole earth to the light, O Creator of all things save those who hymn You."
 
 heAU.SosonMeKyrie.greekname = ""
@@ -79,7 +79,7 @@ heAU.SosonMeKyrie.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.SosonMeKyrie.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.SosonMeKyrie.notmetered = "N/M (Save me, O Lord.)"
 heAU.SosonMeKyrie.name = "Save me, Lord my God."
-heAU.SosonMeKyrie.incipit = "Save me, Lord my God…"
+heAU.SosonMeKyrie.incipit = "…"
 heAU.SosonMeKyrie.text = "Save me, Lord my God, for you are the salvation of all. The tempest of the passions affrights me and the weight of my iniquities pulls me under. Give me your hand of help and lead me up to the light of compunction, for you alone are compassionate and lover of humankind."
 
 heAU.StavrofanosMoysis.greekname = ""
@@ -103,7 +103,7 @@ heAU.TinOraiotita.melody = miscellanea_en_UK_lash.misc.Automelon
 heAU.TinOraiotita.mode = miscellanea_en_UK_lash.misc.Mode3
 heAU.TinOraiotita.notmetered = "N/M (You were so beautiful.)"
 heAU.TinOraiotita.name = "Awed by the beauty."
-heAU.TinOraiotita.incipit = "Awed by the beauty…"
+heAU.TinOraiotita.incipit = "…"
 heAU.TinOraiotita.text = "Awed by the beauty of your virginity and by the splendour of your purity, Gabriel cried aloud to you, O Mother of God, 'How can I praise you as I should? With what name shall I invoke you? I am troubled and amazed; therefore as I was commanded I cry to you: Hail, full of grace!'"
 
 heAU.ToTypoTouStavrou.greekname = ""
